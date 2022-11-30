@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.Net Core WebApp", "Asp.Net Core WebApp\Asp.Net Core WebApp.csproj", "{12771E31-4A43-4D71-9E47-E7C8B49C5A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.Net WebApp", "Asp.net WebApp\Asp.Net WebApp.csproj", "{C21F8694-7ACB-4EAD-99B9-9CB800EF280D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12771E31-4A43-4D71-9E47-E7C8B49C5A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12771E31-4A43-4D71-9E47-E7C8B49C5A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12771E31-4A43-4D71-9E47-E7C8B49C5A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12771E31-4A43-4D71-9E47-E7C8B49C5A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21F8694-7ACB-4EAD-99B9-9CB800EF280D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21F8694-7ACB-4EAD-99B9-9CB800EF280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21F8694-7ACB-4EAD-99B9-9CB800EF280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21F8694-7ACB-4EAD-99B9-9CB800EF280D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1175DB35-657F-49FA-B471-7432ADF116AF}
+	EndGlobalSection
+EndGlobal
